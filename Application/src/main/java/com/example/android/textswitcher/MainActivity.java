@@ -36,6 +36,7 @@ import android.widget.ViewSwitcher.ViewFactory;
 public class MainActivity extends Activity {
     private TextSwitcher mSwitcher;
     private int mCounter = 0;
+    private String strTest = "Test";
     /**
      * The {@link android.widget.ViewSwitcher.ViewFactory} used to create {@link android.widget.TextView}s that the
      * {@link android.widget.TextSwitcher} will switch between.
