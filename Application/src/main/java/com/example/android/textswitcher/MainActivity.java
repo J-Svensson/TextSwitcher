@@ -36,6 +36,24 @@ import android.widget.ViewSwitcher.ViewFactory;
 public class MainActivity extends Activity {
     private TextSwitcher mSwitcher;
     private int mCounter = 0;
+    /**
+     * The {@link android.widget.ViewSwitcher.ViewFactory} used to create {@link android.widget.TextView}s that the
+     * {@link android.widget.TextSwitcher} will switch between.
+     */
+    private ViewFactory mFactory = new ViewFactory() {
+
+        @Override
+        public View makeView() {
+
+            // Create a new TextView
+            TextView t = new TextView(MainActivity.this);
+            t.setGravity(Gravity.TOP | Gravity.CENTER_HORIZONTAL);
+            t.setTextAppearance(MainActivity.this, android.R.style.TextAppearance_Large);
+            return t;
+        }
+    };
+
+    // BEGIN_INCLUDE(factory)
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -82,23 +100,5 @@ public class MainActivity extends Activity {
         mSwitcher.setCurrentText(String.valueOf(mCounter));
 
     }
-
-    // BEGIN_INCLUDE(factory)
-    /**
-     * The {@link android.widget.ViewSwitcher.ViewFactory} used to create {@link android.widget.TextView}s that the
-     * {@link android.widget.TextSwitcher} will switch between.
-     */
-    private ViewFactory mFactory = new ViewFactory() {
-
-        @Override
-        public View makeView() {
-
-            // Create a new TextView
-            TextView t = new TextView(MainActivity.this);
-            t.setGravity(Gravity.TOP | Gravity.CENTER_HORIZONTAL);
-            t.setTextAppearance(MainActivity.this, android.R.style.TextAppearance_Large);
-            return t;
-        }
-    };
     // END_INCLUDE(factory)
 }
