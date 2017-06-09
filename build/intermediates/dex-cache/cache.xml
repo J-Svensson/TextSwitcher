@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jesper\.android\build-cache\f849463916798bb49520d87c4766848f83e60bce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
+        <dex dex="E:\Projects\Android\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0e74cedcd8211d45d46a8397548d66c1071a0294\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jesper\.android\build-cache\485cda17f6f74d8500cad0440593a8e485ad5e87\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="E:\Projects\Android\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a364787b0c10f41d1a10374c78866da337c4c955\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jesper\.android\build-cache\5ccf3a397073c3c813c2ab47da34bf60d3eec77d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="E:\Projects\Android\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_790c53d428d21ce8656a2f1e5f087997899127ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jesper\.android\build-cache\af279a6efa6be6b02fb02434e587dd922271786e\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\Projects\Android\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_0715a4cc93c11c733bc4a326acd89451004e55b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jesper\.android\build-cache\e14d5b653caff48fd209fe9a6a10715708512d15\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Projects\Android\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4aa8086e7a1cbaa1bd8efa3f3a4610525e5e6de5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jesper\.android\build-cache\c0b6e08e99f84f5c8f9a66d4224fb8b39380ad25\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="E:\Projects\Android\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_e0ffcab241d7f1cf415152e632297dbb4d6b6271\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jesper\.android\build-cache\5ccf3a397073c3c813c2ab47da34bf60d3eec77d\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="E:\Projects\Android\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_e1ce978d92c241d828aa3a87d1f5c9c2323befa3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jesper\.android\build-cache\485cda17f6f74d8500cad0440593a8e485ad5e87\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="E:\Projects\Android\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_535b77c74ecf65d367826886f9b9f175125a4e61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\program\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="E:\Projects\Android\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_8cbda2a73a715f3490c8d3fe44b28465ad122073\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jesper\.android\build-cache\20480eee78188820991ac4e093d828d7fb5871be\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="E:\Projects\Android\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_015a6d143ac22a4a275cfa28561bd692af55d625\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jesper\.android\build-cache\93279a5ed5cfa19602a556939c226b40d718a498\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="E:\Projects\Android\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d6eb531d5b109dc60bb666cd793a2feed43e90a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jesper\.android\build-cache\af279a6efa6be6b02fb02434e587dd922271786e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="E:\Projects\Android\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d474eff48df8ac46385c89bb54b9e4a799d7c7a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jesper\.android\build-cache\0ecf59498ae4b16e15df9d8151083b251e233504\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="E:\Projects\Android\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd60761d19197b6b59c6b35aab2b381d1f7415d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jesper\.android\build-cache\ec5d9c18d68646014e312db6e22f6001206976de\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="E:\Projects\Android\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_5eb0b2bc9552ca0c3a8b4c168475ec2a076a9407\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Projects\Android\TextSwitcher\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8ae15708b39b059bf51d3ed8d8df9057a6b40081">
+        <dex dex="E:\Projects\Android\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_42b2a89d00c1780cf30990f5ad08505d0a17f5db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Projects\Android\TextSwitcher\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="E:\Projects\Android\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0ecfc55c0b393b36cde842f0eada18d2bc0b5933\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jesper\.android\build-cache\ec5d9c18d68646014e312db6e22f6001206976de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="E:\Projects\Android\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f8207812ffc4f147aca6ddb476cc7a65da516e46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jesper\.android\build-cache\c0b6e08e99f84f5c8f9a66d4224fb8b39380ad25\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="E:\Projects\Android\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cad24d3aaad5a3cb04eba33f51595fef9aee52ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jesper\.android\build-cache\cb12088bf56accf2391f7e7b47d86b0e4fe2556d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="E:\Projects\Android\TextSwitcher\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc3f2a7f0f60b3a2bd5a04484757eb79287214d6\classes.dex" />
+    </item>
+
+</items>
